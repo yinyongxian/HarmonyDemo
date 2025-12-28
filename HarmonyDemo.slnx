@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HarmonyConsole/HarmonyConsole.csproj" />
+  <Project Path="HarmonyData/HarmonyData.csproj" />
+  <Project Path="HarmonyPatch/HarmonyPatchLib.csproj" />
+</Solution>
